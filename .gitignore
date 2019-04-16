@@ -1,0 +1,4 @@
+*.pyc
+./snapshot/*
+./data/*
+*.swp
